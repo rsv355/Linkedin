@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\libs\linkedin-j-android.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="13bae5a8934c403ab39853974dd6e798d2217ae7">
+        <dex dex="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\build\intermediates\pre-dexed\debug\linkedin-j-android-08130aab89d3ebf848cfedad8ecb0ae977a0031a.jar" />
+    </item>
+    <item
+        jar="E:\Android Development\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e754fd57aa596fe27f5fa5a88f8a29bd9eca8b7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e6380adcb5808bfe13a934a2f35bfeed1adbc49">
+        <dex dex="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1-b18000019c3bb0e70ee959498a907cedbc2cade9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\libs\signpost-jetty6-1.2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="278d98035ed45da35eaeac7ebd22d5fc19374187">
+        <dex dex="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\build\intermediates\pre-dexed\debug\signpost-jetty6-1.2.1.1-19756c008db95c0f1e5f089344b42039b2e37b4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-5ed5b7630db7121b22c0de553e6bb29ffa65b6c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47d92007ca13efd47efad1af94d842ecb5066310">
+        <dex dex="C:\Users\Android\Downloads\MaterialProgressBar-master\Linkedin\app\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1-f54c6eb719239129406ef024a0b7845b5b915139.jar" />
+    </item>
+
+</items>
